@@ -3,7 +3,6 @@ package JUnitTesting;
 import org.junit.jupiter.api.Test;
 import org.testng.Assert;
 
-
 public class UserRegistrationTest {
     //------------Test Cases for First Name Validation--------
     ValidateUserRegistration validator = new ValidateUserRegistration();
