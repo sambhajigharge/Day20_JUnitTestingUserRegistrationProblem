@@ -1,5 +1,6 @@
 package JUnitTesting;
 
+
 public class ValidateUserRegistration {
     // Method to validate user first name
     public boolean validateFirstName(String name) {
